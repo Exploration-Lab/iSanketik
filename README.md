@@ -105,10 +105,10 @@ aggregate score.
 ```
 | Level                           | What it evaluates                                                       | Tasks                                                                                        |
 | ------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Lexical-level               | Recognition and grounding of local sign units                           | Sign Language Recognition (SLR), Word Presence Prediction (WPP), Fingerspelling Detection    |
-| Sentence-level              | Compositional mapping between signed sequences and spoken-language text | ISL→English translation, ISL→Hindi translation, English→ISL generation, Hindi→ISL generation |
-| Contextual-level            | Discourse, thematic, referential, and affective understanding           | Topic Modeling, Co-reference Resolution, Sign Emotion Recognition                            |
-| Cross-lingual and auxiliary | Discrimination between sign languages                                   | Sign Language Identification (SLI; eight languages)                                          |
+| Lexical-level                   | Recognition and grounding of local sign units                           | Sign Language Recognition (SLR), Word Presence Prediction (WPP), Fingerspelling Detection    |
+| Sentence-level                  | Compositional mapping between signed sequences and spoken-language text | ISL→English translation, ISL→Hindi translation, English→ISL generation, Hindi→ISL generation |
+| Contextual-level                | Discourse, thematic, referential, and affective understanding           | Topic Modeling, Co-reference Resolution, Sign Emotion Recognition                            |
+| Cross-lingual and auxiliary     | Discrimination between sign languages                                   | Sign Language Identification (SLI; eight languages)                                          |
 ```
 
 The levels are complementary. For example, facial expression can change
